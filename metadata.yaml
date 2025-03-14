@@ -1,0 +1,29 @@
+_repo: Gedichte_75501
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schmidt, Otto Ernst
+    alias: Ernst, Otto
+    birthdate: 1862
+    deathdate: 1926
+    gutenberg_agent_id: '33129'
+    url: http://www.gutenberg.org/2009/agents/33129
+    wikipedia: http://de.wikipedia.org/wiki/Otto_Ernst
+description: ''
+gutenberg_issued: '2025-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75501'
+language: de
+pgterms:marc905: 20230219100438ernst
+pgterms:marc906: '1923'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bL. Staackmann Verlag, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gedichte
+url: http://www.gutenberg.org/ebooks/75501
